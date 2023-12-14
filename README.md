@@ -60,8 +60,8 @@ go run main.go
 ```
 ### Docker
 ```sh
-docker pull ghcr.io/seekr-osint/seekr:latest
-docker run -p 8569:8569 ghcr.io/seekr-osint/seekr:latest
+docker pull vouu/seekr:latest
+docker run -p 8569:8569 vouu/seekr:latest
 ```
 ### Linux (stable)
 Download the latest stable binary [here](https://github.com/seekr-osint/seekr/releases/latest)
